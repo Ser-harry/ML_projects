@@ -14,7 +14,7 @@ This repository marks the beginning of my journey into the world of machine lear
   - Support Vector Machines (SVM)
   - Decision Trees
 
-- **Football Analysis with YOLOv5**: A cool project I learned from a YouTube tutorial, where I use the YOLOv5 model for analyzing football games, detecting players, and tracking their movements on the field.
+- **Football Analysis with YOLOv5**: A cool project I learned from a [https://youtu.be/neBZ6huolkg?feature=shared) where I use the YOLOv5 model for analyzing football games, detecting players, and tracking their movements on the field.
 
 ## My Passion for Machine Learning
 
