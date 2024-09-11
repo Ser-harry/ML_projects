@@ -5,7 +5,7 @@ This is an optional Honors Project, but it is highly recommended to complete. Th
 ## Project Overview
 
 In this project, you will:
-- Use a rainfall dataset, either provided by the Australian Government's Bureau of Meteorology or downloaded from [here](#), to build a classifier.
+- Use a rainfall dataset, either provided by the Australian Government's Bureau of Meteorology or downloaded from [here](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-ML0101EN-SkillUp/labs/ML-FinalAssignment/Weather_Data.csv), to build a classifier.
 - Clean the dataset and prepare it for machine learning.
 - Apply various machine learning algorithms to predict whether there will be rain the following day.
 
